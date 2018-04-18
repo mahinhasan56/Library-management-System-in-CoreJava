@@ -1,0 +1,70 @@
+Enter 1 For Book Name,Enter 2 For Book Id,Enter 3 For Bookauthor,Enter 4 For Bookpublisher
+1
+Enter name
+Bangla
+Enter id
+101
+Enter author
+Rabindranath
+Enter publisher
+Bangla Academia
+:For Addrecord enter 1,For Printrecord enter 2,For Deleting Enter 3,For Editing Enter 4
+1
+Enter name
+English
+Enter id
+102
+Enter author
+Shakespeor
+Enter publisher
+Holiday inn
+:For Addrecord enter 1,For Printrecord enter 2,For Deleting Enter 3,For Editing Enter 4
+2
+Bangla 
+101 
+Rabindranath 
+Bangla Academia 
+English 
+102 
+Shakespeor 
+Holiday inn 
+:For Addrecord enter 1,For Printrecord enter 2,For Deleting Enter 3,For Editing Enter 4
+3
+Enter A Id
+102
+102is deleted
+:For Addrecord enter 1,For Printrecord enter 2,For Deleting Enter 3,For Editing Enter 4
+2
+Bangla 
+101 
+Rabindranath 
+Bangla Academia 
+:For Addrecord enter 1,For Printrecord enter 2,For Deleting Enter 3,For Editing Enter 4
+4
+Enter A Id to edit or enter # to go back
+101
+Edit InformationEnter 1 for Book nameEnter 2 for Book idEnter 3 for Book authorEnter 4 for Book publisherEnter # for going back
+4
+Enter  a new Book publisher
+Shishu Academi
+:For Addrecord enter 1,For Printrecord enter 2,For Deleting Enter 3,For Editing Enter 4
+2
+Bangla 
+101 
+Rabindranath 
+Shishu Academi 
+:For Addrecord enter 1,For Printrecord enter 2,For Deleting Enter 3,For Editing Enter 4
+4
+Enter A Id to edit or enter # to go back
+101
+Edit InformationEnter 1 for Book nameEnter 2 for Book idEnter 3 for Book authorEnter 4 for Book publisherEnter # for going back
+3
+Enter  a new Book author
+Kaji Najrul Islam
+:For Addrecord enter 1,For Printrecord enter 2,For Deleting Enter 3,For Editing Enter 4
+2
+Bangla 
+101 
+Kaji Najrul Islam 
+Shishu Academi 
+:For Addrecord enter 1,For Printrecord enter 2,For Deleting Enter 3,For Editing Enter 4
